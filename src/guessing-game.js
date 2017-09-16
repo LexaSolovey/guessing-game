@@ -22,4 +22,5 @@ class GuessingGame {
       this.min = this.middle;
     }
 }
+
 module.exports = GuessingGame;
